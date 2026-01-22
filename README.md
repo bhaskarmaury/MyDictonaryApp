@@ -41,10 +41,10 @@ Example endpoint:
 https://api.dictionaryapi.dev/api/v2/entries/en/hello
 
 
-Home Screen :   HomeScreen.png
+HomeScreen.png
 
-Search Word 1 :    WordSearchresult1.png
+WordSearchresult1.png
 
-Search Word 2 :    WordSearchResult2.png
+WordSearchResult2.png
 
-Search Word 3 :   WordSearchResult3.png
+WordSearchResult3.png
