@@ -1,0 +1,18 @@
+package com.example.mydictonaryapp.model
+
+data class DictionaryData(
+    val word : String,
+    val phonetic: String?,
+    val meanings: List<Meanings>
+)
+data class Meanings(
+    val partOfSpeech: String,
+    val definitions: List<Definition>,
+    val synonyms: List<String>?,
+    val antonyms:List<String>?
+)
+
+data class Definition(
+    val definition: String,
+    val example: String?
+)
