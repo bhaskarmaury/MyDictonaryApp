@@ -43,7 +43,7 @@ https://api.dictionaryapi.dev/api/v2/entries/en/hello
 
 HomeScreen.png
 
-WordSearchresult1.png
+WordSearchResult1.png
 
 WordSearchResult2.png
 
