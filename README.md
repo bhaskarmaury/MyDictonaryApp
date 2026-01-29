@@ -40,11 +40,12 @@ Example endpoint:
 
 https://api.dictionaryapi.dev/api/v2/entries/en/hello
 
+## 📸 Screenshots
 
-HomeScreen.png
+<p align="center">
+  <img src="blob/master/HomeScreen.png" width="300"/>
+  <img src="blob/master/WordSearchResult1.png" width="300"/>
+  <img src="blob/master/WordSearchResult2.png" width="300"/>
+  <img src="blob/master/WordSearchResult3.png" width="300"/>
+</p>
 
-WordSearchResult1.png
-
-WordSearchResult2.png
-
-WordSearchResult3.png
