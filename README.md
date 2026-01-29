@@ -42,10 +42,12 @@ https://api.dictionaryapi.dev/api/v2/entries/en/hello
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 <p align="center">
-  <img src="blob/master/HomeScreen.png" width="300"/>
-  <img src="blob/master/WordSearchResult1.png" width="300"/>
-  <img src="blob/master/WordSearchResult2.png" width="300"/>
-  <img src="blob/master/WordSearchResult3.png" width="300"/>
+  <img src="HomeScreen.png" width="250"/>
+  <img src="WordSearchResult1.png" width="250"/>
+  <img src="WordSearchResult2.png" width="250"/>
+  <img src="WordSearchResult3.png" width="250"/>
 </p>
 
